@@ -1,2 +1,2 @@
 # Udacity
-All Udacity files &amp; projects in one place
+All files related to PixelArtMaker project in one place.
